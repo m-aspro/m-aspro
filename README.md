@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">French student in <a href="https://www.utbm.fr/">University of Belfort Montbéliard</a>, you can find here my biggest school projects 📖</p>
 <p align="center">Specialized in Data Science and Artificial Intelligence</p>
-<p align="center">🔭 I’m currently working on the CVRP Project, you can take a look !</p>
+<p align="center">🔭 I’m currently working on the CVRP Project (academic) and the Connect 4 Project (personnal), you can take a look !</p>
 
 
 <h4 align="left">Languages</h4>
